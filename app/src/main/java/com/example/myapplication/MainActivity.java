@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         n=(EditText)findViewById(R.id.textN);
         m=(EditText)findViewById(R.id.textM);
         textErr=(TextView)findViewById(R.id.textErr);
-
     }
 
     public void onClick(View view) {
